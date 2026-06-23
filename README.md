@@ -1,2 +1,3 @@
 # Olympic-medals-scraper
-crawl olympic performances of NOC and athletes from Olympedia
+Crawl Olympic performances of NOCs and athletes from Olympedia during 2000-2024, both the Winter and Summer Olympics.
+It takes days to scrape from scratch.
